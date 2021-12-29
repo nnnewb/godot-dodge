@@ -1,0 +1,5 @@
+*.gd        text        core.autocrlf=input
+*.tscn      text        core.autocrlf=input
+*.godot     text        core.autocrlf=input
+*.import    text        core.autocrlf=input
+*.tres      text        core.autocrlf=input
