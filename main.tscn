@@ -14,6 +14,14 @@ _data = {
 script = ExtResource( 3 )
 mob_scene = ExtResource( 2 )
 
+[node name="ColorRect" type="ColorRect" parent="."]
+anchor_right = 1.0
+anchor_bottom = 1.0
+color = Color( 0.180392, 0.180392, 0.180392, 1 )
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
 [node name="MobTimer" type="Timer" parent="."]
 wait_time = 0.5
 
