@@ -26,6 +26,10 @@ func _ready():
 	pass  # Replace with function body.
 
 
+func update_score(score: int):
+	$ScoreLabel.text = str(score)
+
+
 func _on_MessageTimer_timeout():
 	$Message.hide()
 
