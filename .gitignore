@@ -2,3 +2,5 @@
 *.translation
 export_presets.cfg
 .mono
+
+.vscode
